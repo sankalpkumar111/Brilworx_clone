@@ -82,7 +82,7 @@ http://localhost:3000
 
 Here are some screenshots of the Brilworx clone:
 
-![Screenshot of website](Brilworx_clone/assets/screenshots)
+![Screenshot of website](/assets/screenshots)
 
 
 
