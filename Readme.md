@@ -1,4 +1,4 @@
-```markdown
+
 # Brilworx Clone
 
 This project is a clone of the **Brilworx** website built using **Tailwind CSS** and **Vite**. The goal of this project is to replicate the design and responsiveness of the original Brilworx website as closely as possible using modern web technologies.
@@ -83,7 +83,7 @@ http://localhost:3000
 
 Here are some screenshots of the Brilworx clone:
 
-![Screenshot of website](assets/screenshot/homepage.png)
+![Screenshot of website](assets/screenshot)
 
 > Add more screenshots as needed to showcase your work.
 
