@@ -1,3 +1,6 @@
+Here’s the updated `README.md` with an "About Me" section added, including placeholders for your LinkedIn profile and email:
+
+```markdown
 # Brilworx Clone
 
 This project is a clone of the **Brilworx** website built using **Tailwind CSS** and **Vite**. The goal of this project is to replicate the design and responsiveness of the original Brilworx website as closely as possible using modern web technologies.
@@ -9,6 +12,7 @@ This project is a clone of the **Brilworx** website built using **Tailwind CSS**
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
+- [About Me](#about-me)
 - [Contributing](#contributing)
 
 ## Features
@@ -25,7 +29,6 @@ This project is a clone of the **Brilworx** website built using **Tailwind CSS**
   - HTML
   - Tailwind CSS
   - Vite (for faster development and bundling)
-
 
 ## Getting Started
 
@@ -82,10 +85,13 @@ http://localhost:3000
 
 Here are some screenshots of the Brilworx clone:
 
-![Screenshot of website](/assets/screenshot)
+![Screenshot of website](assets/screenshot/homepage.png)
 
+> Add more screenshots as needed to showcase your work.
 
+## About Me
 
+Hello! I am **Sankalp Kumar**, a passionate web developer currently working on various projects to enhance my skills and knowledge. You can connect with me on [LinkedIn](www.linkedin.com/in/sankalp-kumar-986b12218) or reach out via email at [sankalpkumar911@gmail.com](mailto:sankalpkumar911@gmail.com).
 
 ## Contributing
 
