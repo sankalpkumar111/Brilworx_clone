@@ -1,5 +1,3 @@
-Here’s the updated `README.md` with an "About Me" section added, including placeholders for your LinkedIn profile and email:
-
 ```markdown
 # Brilworx Clone
 
