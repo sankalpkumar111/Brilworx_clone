@@ -82,10 +82,10 @@ http://localhost:3000
 
 Here are some screenshots of the Brilworx clone:
 
-![Homepage](assets/screenshots/homepage.png)
+![Screenshot of website](assets/screenshots/)
 
 
-> Add more screenshots as needed to showcase your work.
+
 
 ## Contributing
 
